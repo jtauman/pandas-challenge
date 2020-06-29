@@ -1,0 +1,11 @@
+Heroes of Pymoli Data Trends
+
+1. The vast majority of players are male (84%) and they account for the most purchases.
+
+2. However,the average purchase amounts for males are less than those for females.
+
+3. Roughly half (45%) of the players are aged between 20-24 years old; not surprisingly, players aged 20-24 
+	account for the greatest number of purchases.
+
+4.  Final Critic and Oathbreaker and Last Hope of the Breaking Storm were the two items
+	purchased the most, also resulting in those two items being the most profitable.
